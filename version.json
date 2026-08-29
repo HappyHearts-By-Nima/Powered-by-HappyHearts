@@ -1,6 +1,6 @@
 {
-  "tag_name": "v1.2",
-  "apk_name": "app-release.apk",
-  "apk_size": 70923706,
-  "notes": "Happy Hearts VPN v1.2 — Smart Network Status & AutoFree Engine"
+  "tag_name": "v1.3",
+  "apk_name": "HappyHearts.apk",
+  "apk_size": 70997222,
+  "notes": "رفع مشکل اتصال IPv6/DNS در شبکه‌های بدون IPv6، بهبود تعمیر خودکار (نیاز به تایید قبل از اجرا)، رفع محدودیت بررسی آپدیت"
 }
