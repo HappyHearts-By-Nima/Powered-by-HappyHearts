@@ -1,6 +1,6 @@
 {
-  "tag_name": "PBHHv1.4",
-  "apk_name": "PBHHv1.4.apk",
-  "apk_size": 110525581,
-  "notes": "افزودن موتور sing-box، بهبود عملکرد و رفع باگ‌های اتصال"
+  "tag_name": "v1.5",
+  "apk_name": "HappyHearts-v1.5.apk",
+  "apk_size": 112639828,
+  "notes": "## What's New in v1.5\n\n### New Features\n- Added free built-in connection keys, so users can connect instantly without needing to add their own server\n- Added a professional-grade update to the Xray core engine for faster and more stable connections\n- Added an in-app step-by-step Guide/Onboarding flow to help new users get started faster\n- Added distinct brand icons for each connection engine (Xray, sing-box, Aether, WARP, Snowflake/Tor)\n- Refreshed the app icon and adaptive launcher icon across all screen densities\n\n### Improvements\n- Improved DNS handling for the sing-box engine (local DNS + platform DNS resolver)\n- Added LibXrayInvoke for more reliable communication with the Xray core\n- Updated multiple screens: Settings, Stats, Subscription, Routing, Per-App Proxy, Server List, and Support\n- General stability and performance improvements across the sing-box and Xray engines\n\n### Notes\n- This release supersedes all previous versions (older releases have been removed)\n- If you experience connection issues after updating, try switching engines from Settings"
 }
