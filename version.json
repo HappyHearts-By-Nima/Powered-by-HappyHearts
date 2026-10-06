@@ -2,5 +2,6 @@
   "tag_name": "v1.8",
   "apk_name": "HappyHearts-v1.8.apk",
   "apk_size": 112523486,
-  "notes": "## What's New in v1.8\n\n### New Features\n- Added support for the AnyTLS protocol (sing-box 1.12+) — a lightweight, hard-to-fingerprint TLS proxy that hides the nested TLS pattern DPI systems look for\n- AnyTLS links (anytls://) can now be pasted, scanned, or imported from subscriptions like any other protocol\n- In-app protocol guide now explains AnyTLS alongside the other protocols\n\n### Notes\n- This release is protocol-support focused; no other behavior changes\n"
+  "notes": "## What's New in v1.8\n\n### New Features\n- Added support for the AnyTLS protocol (sing-box 1.12+) — a lightweight, hard-to-fingerprint TLS proxy that hides the nested TLS pattern DPI systems look for\n- AnyTLS links (anytls://) can now be pasted, scanned, or imported from subscriptions like any other protocol\n- In-app protocol guide now explains AnyTLS alongside the other protocols\n\n### Notes\n- This release is protocol-support focused; no other behavior changes\n",
+  "apk_sha256": "bffcc47f7c50034a85690b8055dd455354930a387db8541a22f2a5311b3cff89"
 }
