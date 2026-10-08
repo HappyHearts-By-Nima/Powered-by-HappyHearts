@@ -1,7 +1,6 @@
 {
-  "tag_name": "v1.8",
-  "apk_name": "HappyHearts-v1.8.apk",
-  "apk_size": 112523486,
-  "notes": "## What's New in v1.8\n\n### New Features\n- Added support for the AnyTLS protocol (sing-box 1.12+) — a lightweight, hard-to-fingerprint TLS proxy that hides the nested TLS pattern DPI systems look for\n- AnyTLS links (anytls://) can now be pasted, scanned, or imported from subscriptions like any other protocol\n- In-app protocol guide now explains AnyTLS alongside the other protocols\n\n### Notes\n- This release is protocol-support focused; no other behavior changes\n",
-  "apk_sha256": "bffcc47f7c50034a85690b8055dd455354930a387db8541a22f2a5311b3cff89"
+  "tag_name": "v1.9",
+  "apk_name": "HappyHearts.apk",
+  "apk_size": 112604162,
+  "notes": "## What's New in v1.9\n- New Happy Hearts logo and splash screen\n- App language now also applies to VPN notifications and release notes\n- Home update badge no longer says \"up to date\" when the check failed\n- Notification now correctly shows \"connected\" once the tunnel is up\n- Connection-quality warning clears itself when traffic recovers\n- Redesigned server map and a much bigger in-app guide\n- Stability improvements across all engines\n---FA---\n## تغییرات نسخه ۱.۹\n- لوگو و صفحه‌ی شروع جدید هپی‌هارتز\n- زبان برنامه حالا روی اعلان‌های VPN و نوت‌های آپدیت هم اعمال می‌شود\n- نشان آپدیت صفحه‌ی اصلی وقتی بررسی ناموفق بوده، دیگر «به‌روز» نشان نمی‌دهد\n- اعلان VPN بعد از اتصال کامل درست «متصل» را نشان می‌دهد\n- هشدار افت کیفیت اتصال با برگشتن ترافیک خودکار پاک می‌شود\n- نقشه‌ی سرورها بازطراحی و راهنمای داخل برنامه خیلی کامل‌تر شد\n- بهبود پایداری در همه‌ی موتورهای اتصال\n"
 }
