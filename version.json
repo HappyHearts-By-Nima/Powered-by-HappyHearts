@@ -1,7 +1,6 @@
 {
-  "tag_name": "v1.9",
+  "tag_name": "v1.9.1",
   "apk_name": "HappyHearts.apk",
-  "apk_size": 112604162,
-  "notes": "## What's New in v1.9\n- New Happy Hearts logo and splash screen\n- App language now also applies to VPN notifications and release notes\n- Home update badge no longer says \"up to date\" when the check failed\n- Notification now correctly shows \"connected\" once the tunnel is up\n- Connection-quality warning clears itself when traffic recovers\n- Redesigned server map and a much bigger in-app guide\n- Stability improvements across all engines\n---FA---\n## تغییرات نسخه ۱.۹\n- لوگو و صفحه‌ی شروع جدید هپی‌هارتز\n- زبان برنامه حالا روی اعلان‌های VPN و نوت‌های آپدیت هم اعمال می‌شود\n- نشان آپدیت صفحه‌ی اصلی وقتی بررسی ناموفق بوده، دیگر «به‌روز» نشان نمی‌دهد\n- اعلان VPN بعد از اتصال کامل درست «متصل» را نشان می‌دهد\n- هشدار افت کیفیت اتصال با برگشتن ترافیک خودکار پاک می‌شود\n- نقشه‌ی سرورها بازطراحی و راهنمای داخل برنامه خیلی کامل‌تر شد\n- بهبود پایداری در همه‌ی موتورهای اتصال\n",
-  "apk_sha256": "944097230bb7fe665b274b745a683ceaa1b67ab2bd6ede9a52596ef2db8d7a83"
+  "apk_size": 112611142,
+  "notes": "## What's New in v1.9.1\n- New Live Route Advisor: when your connection weakens, the app suggests a better free engine and only switches if you approve\n- Connection-quality monitoring now also covers obfs4, WebTunnel and Snowflake\n- New \"Live route suggestions\" switch in Settings (Smart agent section), on by default\n- Suggestions are rate-limited and are not repeated after an app restart\n- Stability improvements\n---FA---\n## تغییرات نسخه ۱.۹.۱\n- مشاور زندهٔ مسیر: وقتی اتصال ضعیف شود، برنامه موتور رایگانِ بهتر را پیشنهاد می‌دهد و فقط با تأیید شما جابه‌جا می‌شود\n- پایش کیفیت اتصال حالا برای obfs4، WebTunnel و Snowflake هم کار می‌کند\n- کلید جدید «پیشنهاد زندهٔ مسیر» در تنظیمات (بخش عامل هوشمند) و به‌صورت پیش‌فرض روشن\n- پیشنهادها کم‌تکرار هستند و بعد از ری‌استارت برنامه دوباره نمایش داده نمی‌شوند\n- بهبود پایداری\n"
 }
