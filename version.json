@@ -1,6 +1,7 @@
 {
-  "tag_name": "v2.0.0",
+  "tag_name": "v2.0.2",
   "apk_name": "HappyHearts.apk",
-  "apk_size": 102426179,
-  "notes": "## What's New in v2.0.0 — Genius\n- Smart Bridge is now Genius: a gated carrier ladder tries hidden carriers first (obfs4, plus WebTunnel as a second carrier) and only falls back to a direct connection as the last step, so your exit server address is not exposed during connect\n- Warp+Psiphon connection fixed and verified end to end, with per-network scoring that ranks countries by measured results\n- The connected server row now shows the live exit location with its flag\n- The route map now starts from your real country when your network exits through a foreign VPN or proxy\n- Stability improvements\n---FA---\n## تغییرات نسخه ۲.۰.۰ — جنیوس\n- «اسمارت بریج» حالا «جنیوس» است: یک نردبان حامل با شرط‌های هوشمند، اول حامل‌های پنهان (obfs4 و حامل دوم WebTunnel) را امتحان می‌کند و اتصال مستقیم فقط آخرین گزینه است، تا آدرس سرور خروجی هنگام اتصال لو نرود\n- اتصال وارپ+سایفون اصلاح و از ابتدا تا انتها راستی‌آزمایی می‌شود و کشورها بر اساس نتیجهٔ اندازه‌گیری‌شده برای هر شبکه رتبه‌بندی می‌شوند\n- ردیف سرور متصل حالا موقعیت زندهٔ خروجی را همراه با پرچم نشان می‌دهد\n- مسیر روی نقشه حالا از کشور واقعی شما شروع می‌شود، حتی وقتی شبکه‌تان از پشت VPN یا پراکسی خارجی خارج می‌شود\n- بهبود پایداری\n"
+  "apk_size": 100863432,
+  "apk_sha256": "e0df0d2a893167f5c732641a25529a57259aba2b6631e1872350b01a2fde86fb",
+  "notes": "Version 2.0.2 removes the old OpenVPN engine. Everything else works as before.\nIf Android warns while installing, tap “More details”, then “Install anyway”. It appears because the app is not from Google Play. Step-by-step pictures: github.com/HappyHearts-By-Nima/Powered-by-HappyHearts\n---FA---\nنسخهٔ ۲.۰.۲ موتور قدیمی OpenVPN را حذف کرده است؛ بقیه چیز مثل قبل کار می‌کند.\nاگر اندروید هنگام نصب هشدار داد، روی «More details» و بعد «Install anyway» بزنید. دلیلش این است که برنامه از گوگل‌پلی نیست. راهنمای تصویری: github.com/HappyHearts-By-Nima/Powered-by-HappyHearts\n"
 }
