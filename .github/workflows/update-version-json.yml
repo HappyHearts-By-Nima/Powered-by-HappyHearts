@@ -61,6 +61,7 @@ jobs:
               "tag_name": rel.get("tag_name"),
               "apk_name": apk["name"],
               "apk_size": int(apk.get("size") or -1),
+              "apk_sha256": (apk.get("digest") or "").replace("sha256:", ""),
               "notes": rel.get("body") or "",
           }
           with open("version.json", "w", encoding="utf-8") as f:
@@ -71,6 +72,8 @@ jobs:
           EOF
 
       - name: Commit version.json
+        env:
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
